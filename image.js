@@ -4,7 +4,7 @@ const maxImages = 9;
 
 const loading = document.getElementById('loading');
 
-var txt = 'Convert Your Text to Images ...';
+var txt = 'Tạo ảnh đơn giản bằng AI';
 var speed = 90;
 var i = 0;
 const heading = document.getElementById('heading');
